@@ -61,7 +61,7 @@ Now, In Event Viewer, under windows log, click on security, We get all the login
 
 ## Scripting the Security Log Exporter
 
-In the virtual machine, open Powershell ISE, copy and paste above powershell Script, and change API key. You can get API key by signing up in https://app.ipgeolocation.io/
+In the virtual machine, open Powershell ISE, copy and paste Powershell Script that is linked in this repository, and change API key. You can get API key by signing up in https://app.ipgeolocation.io/
 
 Now run the powershell script and wait for some time to get real data of login attempts to your virtual machine. (You also can check by yourself by giving the wrong credentials while logging to VM). All the logs we would get in this output.
 
